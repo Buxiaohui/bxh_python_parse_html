@@ -1,0 +1,13 @@
+Python语言操作MySQL数据库，要遵守DB API 2.0 规范。以下接口都可以：
+1，mysql-python也就是MySQLdb；
+2，PyMySQL。支持jython，IronPython，CPython等；
+3，mxODBC 和 mxODBC Connect。egenix家的东西；
+4，pyodbc。需进入http://code.google.com；
+5，MySQL Connector/Python。这个是纯python实现的MySQL接口，由Oracle维护；
+6，mypysql。由c语言实现，目前还不能完全实现PEP249规范；
+7，PyPyODBC。一看就知道支持PyPy；
+
+作者：dp zhang
+链接：http://www.zhihu.com/question/19869186/answer/50312675
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
